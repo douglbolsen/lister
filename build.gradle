@@ -1,0 +1,5 @@
+apply plugin: 'idea'
+
+task hello << {
+	println "Root"
+}
